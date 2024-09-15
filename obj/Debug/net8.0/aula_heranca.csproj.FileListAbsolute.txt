@@ -1,0 +1,14 @@
+C:\Users\marce\source\repos\aula_heranca\bin\Debug\net8.0\aula_heranca.exe
+C:\Users\marce\source\repos\aula_heranca\bin\Debug\net8.0\aula_heranca.deps.json
+C:\Users\marce\source\repos\aula_heranca\bin\Debug\net8.0\aula_heranca.runtimeconfig.json
+C:\Users\marce\source\repos\aula_heranca\bin\Debug\net8.0\aula_heranca.dll
+C:\Users\marce\source\repos\aula_heranca\bin\Debug\net8.0\aula_heranca.pdb
+C:\Users\marce\source\repos\aula_heranca\obj\Debug\net8.0\aula_heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\aula_heranca\obj\Debug\net8.0\aula_heranca.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\aula_heranca\obj\Debug\net8.0\aula_heranca.AssemblyInfo.cs
+C:\Users\marce\source\repos\aula_heranca\obj\Debug\net8.0\aula_heranca.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\aula_heranca\obj\Debug\net8.0\aula_heranca.dll
+C:\Users\marce\source\repos\aula_heranca\obj\Debug\net8.0\refint\aula_heranca.dll
+C:\Users\marce\source\repos\aula_heranca\obj\Debug\net8.0\aula_heranca.pdb
+C:\Users\marce\source\repos\aula_heranca\obj\Debug\net8.0\aula_heranca.genruntimeconfig.cache
+C:\Users\marce\source\repos\aula_heranca\obj\Debug\net8.0\ref\aula_heranca.dll
